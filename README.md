@@ -1,0 +1,2 @@
+# WYB
+A Project based on android application which helps the user to locate it’s nearby best rated restaurants on the basis of his entered geo-location. This application provides best food options to the user for a given budget on the basis of previous reviews of customers for that restaurant and user’s personal choice of food from the restaurant’s menu.  User can find its predicted restaurants in Google map built in android application and get efficient navigation from current location to the selected restaurant.
