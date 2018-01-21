@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#455A64"
+    android:orientation="vertical"
+    android:weightSum="4"
+    tools:context=".Logingoogle">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="3"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/google_icon"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/wyb" />
+
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="Within Your Budget"
+        android:textColor="@color/md_lime_100"
+        android:textSize="36sp"
+        android:textAllCaps="true"
+        android:elevation="20dp"
+        android:textStyle="italic"/>
+
+
+</LinearLayout>
+
+    <com.google.android.gms.common.SignInButton
+    android:id="@+id/sign_in_button"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+        android:layout_gravity="center"
+    android:visibility="visible"
+    tools:visibility="gone"
+        android:elevation="20dp"/>
+
+
+    </LinearLayout>

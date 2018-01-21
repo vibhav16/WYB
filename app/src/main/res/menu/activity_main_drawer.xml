@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_black"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/menu"
+            android:icon="@drawable/bookmark_black"
+            android:title="Preferred menu" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/acount_black"
+            android:title="Profile" />
+
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="Log out" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/ic_local_library_black_24dp"
+                android:title="@string/nav_about_us" />
+            <item
+                android:id="@+id/feedback"
+                android:icon="@drawable/email_black"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/ic_mood_black_24dp"
+                android:title="Rate us on Google Play Store"
+                />
+        </menu>
+    </item>
+
+</menu>

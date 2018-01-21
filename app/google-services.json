@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396807286721",
+    "project_id": "firebase-wyb-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396807286721:android:768f00d26df95575",
+        "android_client_info": {
+          "package_name": "com.wyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396807286721-i8notfkp5k3r178d0pmsobq0u4hbh74k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "396807286721-gsfkqg6ibv0hm9lm3f33kftj5urdp40l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wyb",
+            "certificate_hash": "2166d072330d519f20f4b639d2673b72bc5071a2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7PHeKtqXbLInzvz7mxkEY4Bdclt3sti4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

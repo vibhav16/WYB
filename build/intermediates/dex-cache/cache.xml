@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIBHAV\.android\build-cache\7f45bfce7f774d3d3c29a43b7ab84a892eb55d54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\VIBHAV\AndroidStudioProjects\Wyb\app\build\intermediates\pre-dexed\debug\classes_b3b1d1fa30aa45385aa2affba54d7f931797995c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIBHAV\.android\build-cache\4498c88ed9fbfbf08657b399a3cbee82e259003a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\VIBHAV\AndroidStudioProjects\Wyb\app\build\intermediates\pre-dexed\debug\classes_5521fdfd7175daadfe3c50444be0c65a1caade98.jar" />
+    </item>
+
+</items>
